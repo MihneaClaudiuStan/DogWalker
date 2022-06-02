@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/drawable/ic_add.xml" value="0.187" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/drawable/inputfield.xml" value="0.3675" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/activity_admin_login.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/activity_customer_dashboard.xml" value="0.33" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/activity_customer_login.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/activity_customer_order_adapter.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/activity_customer_register.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/activity_customer_show_order.xml" value="0.25" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/activity_main.xml" value="0.3046153846153846" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/activity_owner_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/activity_owner_login.xml" value="0.25" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/activity_owner_model.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/activity_owner_orders.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/activity_owner_register.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/activity_walker_user_location.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/dogs_layour.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/dogs_layout.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/layout_caini.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/layout_show_orders.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/order_items.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/MIHNEA/AndroidStudioProjects/DogWalker/app/src/main/res/layout/walker_order_layout.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
